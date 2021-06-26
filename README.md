@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjay Prajapt
+- 👋 Hi, I’m Sanjay Prajapat
 - 👀 I’m interested in Android,Flutter
 - 🌱 I’m currently learning Flutter
 
