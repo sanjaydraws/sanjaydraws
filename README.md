@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sanjay Prajapat
 - 👀 I’m interested in Android
 
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://twitter.com/sanjay_draws)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://sanjayprajapat.hashnode.dev/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sanjayprajapat.hashnode.dev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjay_draws )
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjay_draws/?hl=en)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjaydraws&theme=blue-green"/>
