@@ -2,10 +2,10 @@
 - 👀 I’m interested in Android
 
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sanjayprajapat.hashnode.dev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjay_draws )
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjay_draws)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjay_draws/?hl=en)
 
- <h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -24,6 +24,9 @@
   </div>
   <br>
 </p>
+
+[![Check out sanjaydraws's profile on stardev.io](https://stardev.io/developers/sanjaydraws/badge/languages/country.svg)](https://stardev.io/developers/sanjaydraws)
+
 <!---
 sanjaydraws/sanjaydraws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
